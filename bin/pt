@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require 'pt_tools/cli'
+
+PtTools::CLI.start
